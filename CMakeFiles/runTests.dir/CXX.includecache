@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/User/technopark/cpp/dz_2/src/static_lib.cpp
+../testy/interface.h
+/mnt/c/Users/User/technopark/cpp/dz_2/testy/interface.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+malloc.h
+-
+
+/mnt/c/Users/User/technopark/cpp/dz_2/test/main.cpp
+gtest/gtest.h
+-
+
+/mnt/c/Users/User/technopark/cpp/dz_2/test/test.cpp
+gtest/gtest.h
+-
+main.cpp
+/mnt/c/Users/User/technopark/cpp/dz_2/test/main.cpp
+string.h
+-
+stdlib.h
+-
+../src/static_lib.cpp
+/mnt/c/Users/User/technopark/cpp/dz_2/src/static_lib.cpp
+
+/mnt/c/Users/User/technopark/cpp/dz_2/testy/interface.h
+struct.h
+/mnt/c/Users/User/technopark/cpp/dz_2/testy/struct.h
+
+/mnt/c/Users/User/technopark/cpp/dz_2/testy/struct.h
+

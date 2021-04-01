@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/prog.dir/src/main.cpp.o  -o prog  libiz2_std_lib.a 

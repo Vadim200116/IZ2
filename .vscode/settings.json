@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "more_or_equal.h": "c",
+        "static_lib.c": "cpp"
+    }
+}

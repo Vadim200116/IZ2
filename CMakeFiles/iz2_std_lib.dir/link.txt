@@ -1,0 +1,2 @@
+/usr/bin/ar qc libiz2_std_lib.a  CMakeFiles/iz2_std_lib.dir/src/static_lib.cpp.o
+/usr/bin/ranlib libiz2_std_lib.a
