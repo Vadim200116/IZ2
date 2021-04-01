@@ -1,0 +1,7 @@
+1.{
+_Sender: `Alex`;
+_Reciever[2]: `Andre`,`ben123`;
+_Theme: `Football`;
+_Body: `sdasdadsadasfasdaddfdsfsdfdsfsdf`;
+_date: `12/08/2020`;
+}

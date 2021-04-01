@@ -1,0 +1,27 @@
+1.{
+_Sender: `Alex`;
+_Reciever[10]: `Andre`,`ben123`,`sd`,`we`,`dasd`,`w`,`34343434`,`reeee`,`rt`,`ty`,;
+_Theme: `Football`;
+_Body: `sdasdadsadasfasdadd
+fdsfsdf
+dsfsdf`;
+_date: `12/08/2020`;
+}
+2.{
+_Sender: `AEE`;
+_Reciever[3]: `Andre`,`rt`,`ty`,;
+_Theme: `sss`;
+_Body: `eeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeee
+eeeeeeeee`;
+_date: `01/11/2010`;
+}
+3.{
+_Sender: `AEE`;
+_Reciever[3]: `Andre`,`rt`,`ty`;
+_Theme: `AAA`
+_Body: `eeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeee
+eeeeeeeee`;
+_date: `01/11/2010`;
+}
